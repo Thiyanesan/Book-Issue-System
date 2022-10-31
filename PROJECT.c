@@ -30,7 +30,7 @@ void show(int);
 void booklist(int);
 void modify();
 void see(int);
-int branch(int);
+int branch(int); 
 void issue();
 void der(char[],int,int);
 void fine(int,int,int,int,int,int);
